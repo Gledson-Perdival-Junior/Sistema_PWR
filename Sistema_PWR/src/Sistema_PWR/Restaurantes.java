@@ -1,4 +1,4 @@
-package provaLp20242;
+package Sistema_PWR;
 
 import java.util.HashSet;
 import java.util.Objects;
